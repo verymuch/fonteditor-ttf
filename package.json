@@ -1,0 +1,60 @@
+{
+  "_from": "git+https://github.com/akira-cn/fonteditor-ttf.git#master",
+  "_id": "fonteditor-ttf@0.0.18",
+  "_inBundle": false,
+  "_integrity": "sha1-6lHeN6ROCBiM4xZg1G9UW6vZSXQ=",
+  "_location": "/fonteditor-ttf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "fonteditor-ttf@git+https://github.com/akira-cn/fonteditor-ttf.git#master",
+    "name": "fonteditor-ttf",
+    "escapedName": "fonteditor-ttf",
+    "rawSpec": "git+https://github.com/akira-cn/fonteditor-ttf.git#master",
+    "saveSpec": "git+https://github.com/akira-cn/fonteditor-ttf.git#master",
+    "fetchSpec": "https://github.com/akira-cn/fonteditor-ttf.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/fontmin"
+  ],
+  "_resolved": "git+https://github.com/akira-cn/fonteditor-ttf.git#4f4a7892293364a805a7da9998f72d45e285b9ca",
+  "_spec": "fonteditor-ttf@git+https://github.com/akira-cn/fonteditor-ttf.git#master",
+  "_where": "/Users/verymuch/DevSpace/qiwoo_baomitu/node_modules/fontmin",
+  "author": {
+    "name": "kekee000",
+    "email": "kekee000@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/kekee000/fonteditor-ttf/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "pako": "~ 0.2.4",
+    "xmldom": "~ 0.1.19"
+  },
+  "deprecated": false,
+  "description": "ttf to woff, svg, eot convert, otf to ttf convert, ttf adjust",
+  "homepage": "https://github.com/kekee000/fonteditor-ttf",
+  "keywords": [
+    "font",
+    "ttf",
+    "woff",
+    "svg",
+    "eot",
+    "otf"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kekee000/fonteditor-ttf/raw/master/LICENSE"
+    }
+  ],
+  "main": "./main.js",
+  "name": "fonteditor-ttf",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kekee000/fonteditor-ttf.git"
+  },
+  "version": "0.0.18"
+}
